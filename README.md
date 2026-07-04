@@ -1,4 +1,4 @@
-﻿# ðŸ¤– Adaptive Conversational Intelligence System
+﻿# Adaptive Conversational Intelligence System
 
 Adaptive Conversational Intelligence System is a Flutter-based AI chat application that lets users interact with multiple personality-driven conversational agents. The app combines Firebase Authentication, Cloud Firestore, local preference storage, and Gemini-powered responses to deliver personalized, persistent, and character-aware conversations.
 
